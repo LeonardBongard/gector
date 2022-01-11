@@ -1,6 +1,7 @@
 import argparse
 import sys
 sys.path.append("/home/stud-leonardbongard/Bachelor_Arbeit/ba-leonard-bongard/models/submodules/gector")
+sys.path.append("/home/leo/Projects/PythonProjects/ba-leonard-bongard/models/submodules/gector")
 
 from utils.helpers import read_lines
 from gector.gec_model import GecBERTModel
